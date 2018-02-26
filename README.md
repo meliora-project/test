@@ -1,3 +1,3 @@
 # test
 
-simple
+simple test repository for git-flow
